@@ -1,22 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=RAHUL%20UBALE&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FIREEYES%20CODER%20•%20AI%20•%20FULL%20STACK%20•%20CREATIVE%20SYSTEMS&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:050816,50:111827,100:1f2937&text=RAHUL%20UBALE&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FIREEYES%20SYSTEMS%20ONLINE&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+Initializing+FireEyes+Systems...;%3E+Building+Immersive+Digital+Experiences...;%3E+Engineering+Modern+Web+Architectures...;%3E+Exploring+AI+Driven+Interfaces...;%3E+Creative+Developer+%7C+AI+%26+DS+Student" />
+```txt
+███████╗██╗██████╗ ███████╗███████╗██╗   ██╗███████╗███████╗
+██╔════╝██║██╔══██╗██╔════╝██╔════╝╚██╗ ██╔╝██╔════╝██╔════╝
+█████╗  ██║██████╔╝█████╗  █████╗   ╚████╔╝ █████╗  ███████╗
+██╔══╝  ██║██╔══██╗██╔══╝  ██╔══╝    ╚██╔╝  ██╔══╝  ╚════██║
+██║     ██║██║  ██║███████╗███████╗   ██║   ███████╗███████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝╚══════╝
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3E+Booting+FireEyes+Environment...;%3E+Initializing+Neural+Systems...;%3E+Building+Immersive+Digital+Experiences...;%3E+Engineering+Modern+Web+Architectures...;%3E+Exploring+AI+Driven+Interfaces...;%3E+Creative+Developer+%7C+AI+%26+DS+Student" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RahulUbale06&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RahulUbale06&label=SYSTEM+VISITORS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# SYSTEM_STATUS.exe
+# NEURAL_CORE.sys
 
 ```yaml
 NAME: Rahul Ubale
@@ -25,65 +36,67 @@ ALIAS: FireEyes Coder
 
 ROLE: AI & Data Science Student
 
-STATUS: Building Intelligent Systems
+STATUS: ONLINE
+
+BUILD_MODE: ACTIVE
 
 SPECIALIZATION:
   - Full Stack Development
-  - Frontend Engineering
+  - Creative Frontend Engineering
   - AI & Data Science
-  - Creative Development
-  - Modern UI/UX
-
-CURRENT_MODE: ACTIVE
+  - Immersive UI Systems
+  - Modern Web Architectures
 
 MISSION:
-  Engineering immersive digital experiences
-  through intelligent systems and modern web technologies.
+  Building intelligent systems and futuristic
+  digital experiences through code and creativity.
+
+VERSION: FIREEYES v2.0
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# ARSENAL
+# ARSENAL.exe
 
 <div align="center">
 
-### LANGUAGES
+## LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,php" />
 
 <br><br>
 
-### FRONTEND
+## FRONTEND SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
 
-<img src="https://img.shields.io/badge/Locomotive_JS-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Locomotive_JS-111827?style=for-the-badge"/>
 
 <br><br>
 
-### BACKEND & DATABASE
+## BACKEND SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,npm" />
 
 <br><br>
 
-### TOOLS & PLATFORMS
+## TOOLS & PLATFORMS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 <br><br>
 
-### ADDITIONAL TOOLS
+## ANALYTICS & AI
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge"/>
 
@@ -91,51 +104,72 @@ MISSION:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # TERMINAL_LOGS.exe
 
 ```bash
-> Booting FireEyes environment...
+> Boot sequence initialized...
 
-> Initializing modern frontend systems...
-> Engineering responsive user experiences...
-> Exploring AI & Data Science concepts...
-> Building immersive digital interfaces...
-> Learning backend architectures...
-> Designing futuristic UI systems...
-> Deploying real-world projects...
-> Maintaining GitHub streak...
+> AI systems online...
+> Rendering futuristic interfaces...
+> Building immersive frontend experiences...
+> Engineering scalable backend systems...
+> Exploring intelligent architectures...
+> Learning continuously...
+> Pushing commits...
+> Maintaining streak...
 > Evolving daily...
+
+STATUS: STABLE
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# FEATURED_PROJECTS
+# SYSTEM_METRICS.yaml
+
+```yaml
+FOCUS:
+  - AI & Data Science
+  - Full Stack Development
+  - Frontend Animation
+  - Creative UI Engineering
+  - Intelligent Interfaces
+
+CURRENT_STATE: BUILDING
+
+DAILY_STATUS: CODING
+
+UPTIME: CONSISTENT
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+# FEATURED_PROJECTS.sys
 
 <div align="center">
 
 | PROJECT | DESCRIPTION |
 |---|---|
-| Elite Interiors Website | Luxury modern interior design website with premium UI and immersive layouts |
-| Natural Vitamins Store | Organic grocery website redesigned using modern frontend architecture |
-| AI-DS Practicals Repository | Structured academic and learning repository with practical implementations |
-| AI Pollution Monitoring System | AI-based industrial pollution monitoring concept system |
-| Frontend Animation Experiments | GSAP, Locomotive JS & immersive UI engineering experiments |
+| Elite Interiors Website | Luxury futuristic interior design website with immersive UI |
+| Natural Vitamins Store | Modern organic grocery website redesigned with premium frontend architecture |
+| AI-DS Practicals Repository | Structured repository for academic practicals and learning systems |
+| AI Pollution Monitoring System | AI-based industrial pollution monitoring concept |
+| Frontend Animation Experiments | GSAP + Locomotive JS creative UI engineering experiments |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# GITHUB_ANALYTICS
+# FIRE_EYES_ANALYTICS
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RahulUbale06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulUbale06&theme=tokyonight&hide_border=true&background=0D1117"/>
 
@@ -147,39 +181,21 @@ MISSION:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# ACTIVE_PROTOCOLS
+# FIREEYES_PROTOCOL
 
 ```bash
-> AI & Data Science
-> Full Stack Development
-> Frontend Animation
-> Modern Web Experiences
-> Creative UI Engineering
-> Backend Systems
-> Intelligent Interfaces
+> Design.
+> Engineer.
+> Evolve.
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-# PHILOSOPHY.sys
-
-<div align="center">
-
-```text
-Code. Create. Evolve.
-```
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-# CONNECT
+# TRANSMISSION_LINKS
 
 <div align="center">
 
@@ -193,6 +209,13 @@ Code. Create. Evolve.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer"/>
+```bash
+> Transmission terminated...
+> FireEyes systems shutting down...
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:1f2937&height=180&section=footer"/>
 
 </div>
